@@ -1,7 +1,6 @@
 import React from "react";
 import Row from "../Row/Row";
 // import "../Row/Row.js";
-import axios from "../../../utils/axios.js";
 import requests from "../../../utils/requests.js";
 
 const RowList = () => {
